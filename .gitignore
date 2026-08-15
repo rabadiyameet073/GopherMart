@@ -1,0 +1,34 @@
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, output & coverage
+*.test
+*.out
+coverage.html
+profile.pprof
+
+# Environment variables
+.env
+.env.local
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Workspace agent configs (keep local)
+.agents/
+.gsd/
+AGENTS.md
+GEMINI.md
+
